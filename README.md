@@ -31,11 +31,12 @@ Building and Running:
 
 Open the project in Qt Creator or a preferred C++ IDE.      
 Build the project using the appropriate build configuration.       
-Run the executable to launch the application.    
+Run the executable to launch the application.      
+While running make sure that you are in the login page.   
 
 ## Contributors
-22050151001 Aglız Nisa GÜNER       
-22050161001 Bahri KESKİN     
-22050111049 Ege ÜNDENİŞ      
-20050111017 İsmail ATALAY     
-21050111081 Rümeysa YAVUZKANAT
+22050151001 Aglız Nisa GÜNER  Scroll Bar, Product Sizes, Product buttons and pictures added in ui, Doxygen and Github documantation      
+22050161001 Bahri KESKİN   Liking and Commenting a Product.
+22050111049 Ege ÜNDENİŞ    Majority of GUI,Majority of Mainwindow Class, Customer Class.   
+20050111017 İsmail ATALAY  Reading and Saving favorites, previous orders, Product Attributes and Comments. Comment permission. Product class.   
+21050111081 Rümeysa YAVUZKANAT  Reciept class, Payment class, your Cart and Reciept GUI.
