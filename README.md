@@ -35,7 +35,7 @@ Run the executable to launch the application.
 While running make sure that you are in the login page.   
 
 ## Contributors
-22050151001 Aglız Nisa GÜNER  Scroll Bar, Product Sizes, Product buttons and pictures added in ui, Doxygen and Github documantation      
+22050151001 Aglız Nisa GÜNER  Scroll Bar, Product Sizes, Product buttons and pictures added in GUI, Doxygen and Github documantation      
 22050161001 Bahri KESKİN   Liking and Commenting a Product.
 22050111049 Ege ÜNDENİŞ    Majority of GUI,Majority of Mainwindow Class, Customer Class.   
 20050111017 İsmail ATALAY  Reading and Saving favorites, previous orders, Product Attributes and Comments. Comment permission. Product class.   
