@@ -1,0 +1,359 @@
+productstart:
+productid: 1
+productpath: :/pictures/pictures/K01.png
+productexp: Textured Weave Blazer
+cost: 1649
+Number of likes: 1350
+comments: 
+productend:
+
+productstart:
+productid: 2
+productpath: :/pictures/pictures/K02.png
+productexp: Pink Blazer
+cost: 1049
+Number of likes: 777
+comments: ege  uici,inanılmaz güzel-ege  uici,harrrrrrrrrrrrrika-ege  uici,müthiş!-
+productend:
+
+productstart:
+productid: 3
+productpath: :/pictures/pictures/K03.png
+productexp: Oversized Gabardine Shirt
+cost: 1359
+Number of likes: 560
+comments: 
+productend:
+
+productstart:
+productid: 4
+productpath: :/pictures/pictures/K04.png
+productexp: Elastic Braided Blue Top
+cost: 580
+Number of likes: 614
+comments: 
+productend:
+
+productstart:
+productid: 5
+productpath: :/pictures/pictures/K05.png
+productexp: Wide High Jeans
+cost: 880
+Number of likes: 987
+comments: 
+productend:
+
+productstart:
+productid: 6
+productpath: :/pictures/pictures/K06.png
+productexp: Striped Wide-Leg Pants
+cost: 990
+Number of likes: 568
+comments: 
+productend:
+
+productstart:
+productid: 7
+productpath: :/pictures/pictures/K07.png
+productexp: Curvy Fit Bermuda High Denim Shorts
+cost: 580
+Number of likes: 453
+comments: 
+productend:
+
+productstart:
+productid: 8
+productpath: :/pictures/pictures/K08.png
+productexp: Midi Denim Skirt
+cost: 1000
+Number of likes: 875
+comments: 
+productend:
+
+productstart:
+productid: 9
+productpath: :/pictures/pictures/K09.png
+productexp: Shopper Bag
+cost: 700
+Number of likes: 123
+comments: 
+productend:
+
+productstart:
+productid: 10
+productpath: :/pictures/pictures/K10.png
+productexp: Warm Lined Boots
+cost: 700
+Number of likes: 236
+comments: 
+productend:
+
+productstart:
+productid: 11
+productpath: :/pictures/pictures/K11.png
+productexp: Heeled Shoe
+cost: 560
+Number of likes: 645
+comments: 
+productend:
+
+productstart:
+productid: 12
+productpath: :/pictures/pictures/K12.png
+productexp: Leather Belt
+cost: 450
+Number of likes: 186
+comments: 
+productend:
+
+productstart:
+productid: 13
+productpath: :/pictures/pictures/E01.png
+productexp: Baggy Jeans
+cost: 355
+Number of likes: 987
+comments: ismail atalay,güzel ürün-ege  uici,beğenmedim-ege  uici,çoksel bence-ege  uici,değillll!-
+productend:
+
+productstart:
+productid: 14
+productpath: :/pictures/pictures/E02.png
+productexp: Oversized Khaki Sweatshirt
+cost: 800
+Number of likes: 742
+comments: ege  uici,e iyi..-ege  uici,eyi-
+productend:
+
+productstart:
+productid: 15
+productpath: :/pictures/pictures/E03.png
+productexp: Relaxed Fit Colored Sweatshirt
+cost: 1500
+Number of likes: 632
+comments: 
+productend:
+
+productstart:
+productid: 16
+productpath: :/pictures/pictures/E04.png
+productexp: Relaxed Fit Flanel
+cost: 2500
+Number of likes: 654
+comments: 
+productend:
+
+productstart:
+productid: 17
+productpath: :/pictures/pictures/E05.png
+productexp: Relaxed Fit Sweatshirt
+cost: 3500
+Number of likes: 486
+comments: 
+productend:
+
+productstart:
+productid: 18
+productpath: :/pictures/pictures/E06.png
+productexp: Oversized Fit Jogger
+cost: 820
+Number of likes: 632
+comments: 
+productend:
+
+productstart:
+productid: 19
+productpath: :/pictures/pictures/E07.png
+productexp: Oversized Fit T-Shirt
+cost: 2110
+Number of likes: 489
+comments: 
+productend:
+
+productstart:
+productid: 20
+productpath: :/pictures/pictures/E08.png
+productexp: Straight Regular Jeans
+cost: 700
+Number of likes: 364
+comments: 
+productend:
+
+productstart:
+productid: 21
+productpath: :/pictures/pictures/E09.png
+productexp: Oversized Fit Sweatshirt
+cost: 600
+Number of likes: 745
+comments: 
+productend:
+
+productstart:
+productid: 22
+productpath: :/pictures/pictures/E10.png
+productexp: Oversized Fit Jogger
+cost: 365
+Number of likes: 641
+comments: 
+productend:
+
+productstart:
+productid: 23
+productpath: :/pictures/pictures/E11.png
+productexp: Ski Goggles
+cost: 455
+Number of likes: 12
+comments: 
+productend:
+
+productstart:
+productid: 24
+productpath: :/pictures/pictures/E12.png
+productexp: 10 Pack Socks
+cost: 975
+Number of likes: 50
+comments: ege  uici,kötüüüüüü-ege  uici,değil harika-
+productend:
+
+productstart:
+productid: 25
+productpath: :/pictures/pictures/E13.png
+productexp: Skinny Jeans
+cost: 750
+Number of likes: 30
+comments: 
+productend:
+
+productstart:
+productid: 26
+productpath: :/pictures/pictures/E14.png
+productexp: Oversized Fit Patterned Collar Shirt
+cost: 655
+Number of likes: 756
+comments: 
+productend:
+
+productstart:
+productid: 27
+productpath: :/pictures/pictures/E15.png
+productexp: Skinny Jeans
+cost: 250
+Number of likes: 411
+comments: 
+productend:
+
+productstart:
+productid: 28
+productpath: :/pictures/pictures/E16.png
+productexp: Sock
+cost: 150
+Number of likes: 754
+comments: 
+productend:
+
+productstart:
+productid: 29
+productpath: :/pictures/pictures/E17.png
+productexp: Water Repellent Sports Hat
+cost: 390
+Number of likes: 365
+comments: 
+productend:
+
+productstart:
+productid: 30
+productpath: :/pictures/pictures/E18.png
+productexp: 2 Rings
+cost: 300
+Number of likes: 756
+comments: ege  uici,çoksel-
+productend:
+
+productstart:
+productid: 31
+productpath: :/pictures/pictures/E19.png
+productexp: Water Repellent Sports Bag
+cost: 650
+Number of likes: 465
+comments: 
+productend:
+
+productstart:
+productid: 32
+productpath: :/pictures/pictures/E20.png
+productexp: 3-Piece Elastic Hair Band
+cost: 550
+Number of likes: 365
+comments: 
+productend:
+
+productstart:
+productid: 33
+productpath: :/pictures/pictures/K13.png
+productexp: Hooded Oversize Top
+cost: 550
+Number of likes: 954
+comments: 
+productend:
+
+productstart:
+productid: 34
+productpath: :/pictures/pictures/K14.png
+productexp: Cotton Jersey Tights
+cost: 300
+Number of likes: 785
+comments: 
+productend:
+
+productstart:
+productid: 35
+productpath: :/pictures/pictures/K15.png
+productexp: High Waisted Jogger Pants
+cost: 550
+Number of likes: 456
+comments: 
+productend:
+
+productstart:
+productid: 36
+productpath: :/pictures/pictures/K16.png
+productexp: Sweatshirt
+cost: 340
+Number of likes: 567
+comments: 
+productend:
+
+productstart:
+productid: 37
+productpath: :/pictures/pictures/K17.png
+productexp: Fine Knitwear Cardigan
+cost: 650
+Number of likes: 789
+comments: 
+productend:
+
+productstart:
+productid: 38
+productpath: :/pictures/pictures/K18.png
+productexp: 2-Piece Sleeveless Top
+cost: 450
+Number of likes: 932
+comments: 
+productend:
+
+productstart:
+productid: 39
+productpath: :/pictures/pictures/K19.png
+productexp: Pocket Detailed Leggings
+cost: 275
+Number of likes: 318
+comments: 
+productend:
+
+productstart:
+productid: 40
+productpath: :/pictures/pictures/K20.png
+productexp: Half Turtleneck Top
+cost: 450
+Number of likes: 456
+comments: 
+productend:

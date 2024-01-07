@@ -1,0 +1,21 @@
+Name: ismail
+Surname: atalay
+Email: iso.com
+Password: 123
+Favorites: 13,19,
+Previous Orders: 13,19,13,
+-------------
+Name: ege 
+Surname: uici
+Email: ege.com
+Password: 123
+Favorites: 
+Previous Orders: 13,14,14,23,13,13,2,24,30,25,
+-------------
+Name: asd
+Surname: asd
+Email: asd.com
+Password: 123
+Favorites: 
+Previous Orders: 14,19,15,14,17,
+-------------

@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>resources/logo1.png</file>
+        <file>resources/product1.txt</file>
+        <file>resources/profile.png</file>
+        <file>resources/shopping bag.png</file>
+        <file>resources/logout.png</file>
+        <file>resources/backLogo.png</file>
+        <file>resources/kalpLogoLiked.png</file>
+        <file>resources/kalpLogoNotLiked.png</file>
+    </qresource>
+    <qresource prefix="/pictures">
+        <file>pictures/E01.png</file>
+        <file>pictures/E02.png</file>
+        <file>pictures/E03.png</file>
+        <file>pictures/E04.png</file>
+        <file>pictures/E05.png</file>
+        <file>pictures/E06.png</file>
+        <file>pictures/E07.png</file>
+        <file>pictures/E08.png</file>
+        <file>pictures/E09.png</file>
+        <file>pictures/E10.png</file>
+        <file>pictures/E11.png</file>
+        <file>pictures/E12.png</file>
+        <file>pictures/K01.png</file>
+        <file>pictures/K02.png</file>
+        <file>pictures/K03.png</file>
+        <file>pictures/K04.png</file>
+        <file>pictures/K05.png</file>
+        <file>pictures/K06.png</file>
+        <file>pictures/K07.png</file>
+        <file>pictures/K08.png</file>
+        <file>pictures/K09.png</file>
+        <file>pictures/K10.png</file>
+        <file>pictures/K11.png</file>
+        <file>pictures/K12.png</file>
+        <file>pictures/E13.png</file>
+        <file>pictures/E14.png</file>
+        <file>pictures/E15.png</file>
+        <file>pictures/E16.png</file>
+        <file>pictures/E17.png</file>
+        <file>pictures/E18.png</file>
+        <file>pictures/E19.png</file>
+        <file>pictures/E20.png</file>
+        <file>pictures/K13.png</file>
+        <file>pictures/K16.png</file>
+        <file>pictures/K17.png</file>
+        <file>pictures/K18.png</file>
+        <file>pictures/K19.png</file>
+        <file>pictures/K20.png</file>
+        <file>pictures/K14.png</file>
+        <file>pictures/K15.png</file>
+    </qresource>
+</RCC>
